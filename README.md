@@ -49,7 +49,7 @@ Projeto FullStack de uma calculadora valores de petshop, desenvolvido utilizando
 
 ## Como rodar a Aplicação Web :computer:
 
-> instale as tecnologias necesárias:
+> Instale as tecnologias necesárias:
 > Para o projeto BackEnd, garanta que o Node.js esteja instalado corretamente em sua máquina. Além disso, instale em seu terminal as tecnologias abaixo:
 ```sh
 npm install cors
@@ -72,29 +72,43 @@ npm install axios
 ```sh
 npm start
 ```
-<p>Garanta que no seu Package.Json tenha o script CLI "start": "nodemon server.js"</p>
-![image](https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/fe1f1a5f-2b18-441d-bb50-38fad3d0fb7f)
+> Garanta que no seu Package.Json tenha o script CLI "start": "nodemon server.js":
+<img src="https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/fe1f1a5f-2b18-441d-bb50-38fad3d0fb7f"/>
 
-
+> Para iniciar a aplicação FrontEnd, digite em outro terminal:
+```sh
+npx create-react-app desafio-dti
+```
+```sh
+cd desafio-dti
+```
+```sh
+npm start
+```
+> Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 ## Layout da Aplicação :computer:
-> Página inicial
-<img src="./src/assets/images/page.jpg" width=1000>
+> Banner
+<img src="https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/d69e643f-f20f-4401-8464-ffe50b021e04" alt="banner"/>
 
-> Página de Pesquisa
-<img src="./src/assets/images/selected.jpg" width=1000>
+> Formulário
+<img src="https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/d7a23a0e-55c8-4900-a696-07c27a2c7e3d" alt="formulario"/>
 
-> Responsividade e Card do Pokemon
-<img src="./src/assets/images/responsivo.jpg" width=500>
+> Resultado
+<img src="https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/ac2144b6-eba1-4f70-8304-912e4ea0f409" alt="resultado"/>
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [Vue.JS](https://vuejs.org/)
+- [React](https://legacy.reactjs.org/docs/getting-started.html)
 - [Node.js](https://nodejs.org/docs/latest/api/)
-- [PokeAPI](https://pokeapi.co/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Vite](https://vitejs.dev/)
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [Date-Fns](https://date-fns.org/v3.6.0/docs/Getting-Started)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Vercel](https://vercel.com/docs)
+- [Cors](https://www.npmjs.com/package/cors)
+
+## Desenvolvedora :octocat:
+
+[<img src="https://github.com/StephanieSouzaC.png" width=200><br><p>Stephanie Souza</p>](https://www.linkedin.com/in/stephanie-souza-83a18b239/)
