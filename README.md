@@ -1,5 +1,5 @@
-<h1 aling="center">Calculadora de valores de Petshop</h1>
-
+<h1 aling="center">
+<img src="https://github.com/StephanieSouzaC/calculadora-Petshop/assets/117867662/f7ff3544-795f-494b-b7d9-9a2f8212e613" width=100>  Calculadora de valores de Petshop</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=for-the-badge&logo=React"/>
