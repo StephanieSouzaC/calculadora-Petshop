@@ -66,7 +66,7 @@ cd .\desafio-dti-BackEnd\
 ```sh
 npm install
 ```
-> Para iniciar a aplicação FrontEnd, digite no terminal:
+> Para iniciar a aplicação BackEnd, digite no terminal:
 ```sh
 npm start
 ```
