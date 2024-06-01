@@ -90,6 +90,4 @@ const Form = () => {
     );
 };
 
-// {result && <div className="result">{JSON.stringify(result)}</div>}
-// {err && <div className="error">{JSON.stringify(err)}</div>}
 export default Form;
