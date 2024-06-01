@@ -19,7 +19,7 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Como rodar a Aplicação Web](como-rodar-a-aplicacao-web-computer)
+:small_blue_diamond: [Como rodar a Aplicação Web](#como-rodar-a-aplicação-web-computer)
 
 :small_blue_diamond: [Layout da Aplicação](#layout-da-aplicação-computer)
 
