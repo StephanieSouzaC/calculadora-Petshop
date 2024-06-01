@@ -48,8 +48,34 @@ Projeto FullStack de uma calculadora valores de petshop, desenvolvido utilizando
 :heavy_check_mark: Devolve na tela o petshop mais barato e o valor que será gasto no banho.
 
 ## Como rodar a Aplicação Web :computer:
+> Para instalar as dependências e tecnologias do projeto FrontEnd digite em seu terminal:
+```sh
+cd .\desafio-dti\
+```
+```sh
+npm install
+```
+> Para iniciar a aplicação FrontEnd, digite no terminal:
+```sh
+npm start
+```
+> Para instalar as dependências e tecnologias do projeto BackEnd digite em seu terminal:
+```sh
+cd .\desafio-dti-BackEnd\
+```
+```sh
+npm install
+```
+> Para iniciar a aplicação FrontEnd, digite no terminal:
+```sh
+npm start
+```
+> Observação: para o projeto BackEnd, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
-> Para o projeto BackEnd, garanta que o Node.js esteja instalado corretamente em sua máquina. Além disso, instale em seu terminal as tecnologias abaixo:
+<p>Caso ocorra algum erro as tecnologias podem ser instaladas manualmente conforme instruções abaixo:</p>
+
+> Para o projeto BackEnd, instale em seu terminal as tecnologias abaixo:
+
 ```sh
 npm install cors
 ```
@@ -84,7 +110,6 @@ cd desafio-dti
 ```sh
 npm start
 ```
-> Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 
 ## Layout da Aplicação :computer:
 > Banner
