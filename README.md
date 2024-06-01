@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=for-the-badge&logo=React"/>
+  <img src="https://img.shields.io/static/v1?label=Express&message=framework&color=green&style=for-the-badge&logo=Express"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=JavaScript&message=linguage&color=yellow&style=for-the-badge&logo=JavaScript"/>
   <img src="http://img.shields.io/static/v1?label=node.js&message=linguage&color=green&style=for-the-badge&logo=node.js"/>
@@ -75,7 +76,9 @@ npm start
 <p>Caso ocorra algum erro as tecnologias podem ser instaladas manualmente conforme instruções abaixo:</p>
 
 > Para o projeto BackEnd, instale em seu terminal as tecnologias abaixo:
-
+```sh
+npm install express --save
+```
 ```sh
 npm install cors
 ```
@@ -124,6 +127,7 @@ npm start
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [React](https://legacy.reactjs.org/docs/getting-started.html)
+- [Express](https://expressjs.com/pt-br/)
 - [Node.js](https://nodejs.org/docs/latest/api/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
