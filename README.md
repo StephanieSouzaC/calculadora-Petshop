@@ -45,7 +45,7 @@ Projeto FullStack de uma calculadora valores de petshop, desenvolvido utilizando
 
 :heavy_check_mark: Calcula os valores de acordo com a tabela proposta.
 
-:heavy_check_mark: Devolve na tela o valor o petshop mais barato e o valor que será gasto no banho.
+:heavy_check_mark: Devolve na tela o petshop mais barato e o valor que será gasto no banho.
 
 ## Como rodar a Aplicação Web :computer:
 
