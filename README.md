@@ -49,7 +49,6 @@ Projeto FullStack de uma calculadora valores de petshop, desenvolvido utilizando
 
 ## Como rodar a Aplicação Web :computer:
 
-> Instale as tecnologias necesárias:
 > Para o projeto BackEnd, garanta que o Node.js esteja instalado corretamente em sua máquina. Além disso, instale em seu terminal as tecnologias abaixo:
 ```sh
 npm install cors
