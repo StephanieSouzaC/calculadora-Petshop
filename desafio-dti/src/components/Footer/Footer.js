@@ -23,3 +23,7 @@ const Footer = () => {
 }
 
 export default Footer;
+
+// rfce - atalho criar componente 
+// rafce - atalho component arrow function
+
